@@ -1,0 +1,19 @@
+{
+  "name": "ngx-babel",
+  "version": "0.0.1",
+  "description": "Upcoming translation library for Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeAndWeb/ngx-babel.git"
+  },
+  "author": "Andreas Löw <support@codeandweb.com> (CodeAndWeb GmbH)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeAndWeb/ngx-babel/issues"
+  },
+  "homepage": "https://github.com/CodeAndWeb/ngx-babel#readme"
+}
